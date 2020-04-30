@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-array_1 = [" ", "hello", "world", 4, 1, 5, [], {}]
+array_1 = ["", "hello", "world", 4, 1, 5, [], {}]
 array_2 = ["", 4, "", "goodbye",""]
 
 describe 'count_strings' do
